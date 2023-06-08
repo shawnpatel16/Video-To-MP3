@@ -1,9 +1,12 @@
 # Video Converter (Video to MP3)
 
+Made using Flask and Vue
+
 Insert youtube link and timestamps of relevant parts of video 
 
 Gives downloadable file of mp3 with only the parts you want
 
+ **Please use valid timestamps and links**
 
 # How to use:
 Clone the repository:
@@ -55,5 +58,5 @@ Usage:
 
 With both the frontend and backend servers running, you can now use the application by opening your web browser and navigating to the frontend server's address (default is http://localhost:5137).
 
-Plug in the youtube url, add timestamps and click submit **Please use valid timestamps and links**
-Made using Flask and Vue
+Plug in the youtube url, add timestamps and click submit
+
