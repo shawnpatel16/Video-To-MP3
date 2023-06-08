@@ -9,6 +9,7 @@ Gives downloadable file of mp3 with only the parts you want
 Clone the repository:
 
 git clone git@github.com:shawnpatel16/Video-Converter.git
+
 Navigate to the project directory:
 
 
