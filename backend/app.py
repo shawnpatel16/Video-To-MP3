@@ -58,6 +58,5 @@ def edit_video(video_path, timestamps, video_title):
     return audio_path, video_title
     print("another great success")
 
-
 if __name__ == '__main__':
     app.run(debug=True, port = 8000)
